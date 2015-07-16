@@ -16,7 +16,7 @@ The mod consists of several modules which offer differing functionality:
 * Factory - (Auto Workbench, flood gate, mining well, pump, tank, ... - low-tech automation)
 * Silicon - (Lasers and other laser tables - also required for Gates)
 * Transport - (Pipes, lenses, filters, facades, and filtered buffer)
-* Robotics - (Robots! - Requires Silicon and Transport to work)
+* [Robotics](/Robotics/Module_Robotics.md) - (Robots! - Requires Silicon and Transport to work)
 
 There is also an official addon available called BuildCraft Compat which tries to ensure compatibility between BuildCraft and other mods - builder integration, special features, et cetera.
 
